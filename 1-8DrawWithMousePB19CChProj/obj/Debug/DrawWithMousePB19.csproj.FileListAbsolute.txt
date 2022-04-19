@@ -1,0 +1,86 @@
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\bin\Debug\DrawWithMousePB19.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\bin\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\bin\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Properties.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.AboutBox1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form2.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\bin\Debug\DrawWithMousePB19.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\bin\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\bin\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\obj\Debug\DrawWithMousePB19.csproj.AssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\obj\Debug\DrawWithMousePB19.AboutBox1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\obj\Debug\DrawWithMousePB19.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\obj\Debug\DrawWithMousePB19.Form2.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\obj\Debug\DrawWithMousePB19.Properties.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\obj\Debug\DrawWithMousePB19.csproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\obj\Debug\DrawWithMousePB19.csproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\obj\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB1     9\obj\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.AssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Учебные начальные\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\bin\Debug\DrawWithMousePB19.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\bin\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\bin\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.AssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.AboutBox1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form2.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Properties.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\bin\Debug\DrawWithMousePB19.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\bin\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\bin\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.AssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.AboutBox1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form2.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Properties.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\12DrawWithMousePB19\12DrawWithMousePB19\obj\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\bin\Debug\DrawWithMousePB19.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\bin\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\bin\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.AssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.AboutBox1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form2.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form3.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Properties.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.csproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\1-1DrawWithMousePB19\1-1DrawWithMousePB19\obj\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.Form3.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\bin\Debug\DrawWithMousePB19.exe.manifest
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\bin\Debug\DrawWithMousePB19.application
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.TrustInfo.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.exe.manifest
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VC#\Графический редактор\DrawWithMousePB19\obj\Debug\DrawWithMousePB19.application
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\bin\Debug\DrawWithMousePB19.exe.config
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\bin\Debug\DrawWithMousePB19.exe.manifest
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\bin\Debug\DrawWithMousePB19.application
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\bin\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\bin\Debug\DrawWithMousePB19.pdb
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.csproj.AssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.AboutBox1.resources
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.Form1.resources
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.Form2.resources
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.Form3.resources
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.Properties.Resources.resources
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.csproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.csproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.TrustInfo.xml
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.exe.manifest
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.application
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.exe
+C:\Users\Виталий Караваев\Documents\DrawWithMousePB19CCh\obj\Debug\DrawWithMousePB19.pdb
